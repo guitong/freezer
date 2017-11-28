@@ -1,4 +1,4 @@
-# freezer
+# FREEZER
 
 ## JavaScript
 
