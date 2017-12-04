@@ -20,11 +20,11 @@
     
 ## CSS
 
-*   [CSS 布局说](https://segmentfault.com/a/1190000011358507)
+*   [CSS 布局说](https://segmentfault.com/a/1190000011358507)
 
     清晰完整的CSS布局讲义。
-    
-*   [学习CSS布局](http://zh.learnlayout.com/)
+
+*   [学习CSS布局](http://zh.learnlayout.com/)
 
     早期入门前端时发现的一个极好的CSS布局教程网站。
 
