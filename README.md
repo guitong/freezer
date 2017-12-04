@@ -18,7 +18,16 @@
 
     这篇文章我们从Video的几种应用场景、各环境中依然或将长期存在的问题、基于原生Video进行业务开发常见的问题等方面，一起学习了解更多的实践方向和可能存在的坑。
     
+## CSS
+
+*   [CSS 布局说](https://segmentfault.com/a/1190000011358507)
+
+    清晰完整的CSS布局讲义。
     
+*   [学习CSS布局](http://zh.learnlayout.com/)
+
+    早期入门前端时发现的一个极好的CSS布局教程网站。
+
 ## 响应式设计
 
 *   [使用Flexible实现手淘H5页面的终端适配](https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
