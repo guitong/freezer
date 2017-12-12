@@ -8,6 +8,10 @@
 
 *   [前端常见跨域解决方案](https://segmentfault.com/a/1190000011145364)
 
+*   [看懂此文，不再困惑于 JS 中的事件设计](http://web.jobbole.com/87347/)
+
+    快速理解JavaScript机制，重点理解DOM事件流。一句话总结事件处理函数执行顺序：捕获阶段的处理函数最先执行，其次是目标阶段的处理函数，最后是冒泡阶段的处理函数。目标阶段的处理函数，先注册的先执行，后注册的后执行。
+
 ## 测试
 
 *   [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
