@@ -15,6 +15,9 @@
 *   [学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
     
     快速理解闭包。
+    
+*   [JavaScript中的深拷贝和浅拷贝？](https://www.zhihu.com/question/23031215)
+
 
 ## 测试
 
@@ -49,3 +52,10 @@
 *   [一篇真正教会你开发移动端页面的文章(二)](http://web.jobbole.com/93253/)
 
     移动端开发干货。
+    
+## 其它
+    
+*   [从输入URL到页面加载发生了什么？](https://segmentfault.com/a/1190000006879700)
+
+*   [另一篇：从输入 URL 到页面展示到底发生了什么](http://web.jobbole.com/91239/)
+    
