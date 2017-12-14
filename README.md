@@ -59,3 +59,4 @@
 
 *   [另一篇：从输入 URL 到页面展示到底发生了什么](http://web.jobbole.com/91239/)
     
+*   [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
